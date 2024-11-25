@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661864407922",
+    "project_id": "tienda-virtual-3c9ff",
+    "storage_bucket": "tienda-virtual-3c9ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661864407922:android:aec8b6940cedd528b033eb",
+        "android_client_info": {
+          "package_name": "com.example.tiendavirtualapp_kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4gm6O9MUaaj4IPqdmQJLfgaLCTDXjhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
